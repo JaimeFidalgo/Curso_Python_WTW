@@ -215,11 +215,11 @@ f.close()
 
 import pandas as np
 
-# anaconda prompt - pip install name_module
+# if package is not installed -> anaconda prompt - pip install name_module
 
-# import name_modules as whatever
+# then, in the code -> import name_module as whatever
 
-# whatever.funcion_Del_modulo
+# functions of the module can be used like this -> whatever.funcion_Del_modulo
 
 
 
