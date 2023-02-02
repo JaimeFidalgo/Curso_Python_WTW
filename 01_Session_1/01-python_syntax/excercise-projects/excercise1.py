@@ -3,7 +3,7 @@ import numpy_financial as np
 
 # Arguments
 
-proyectos = ["proyecto1.txt","proyecto2.txt","proyecto3.txt","proyecto4.txt","proyecto5.txt"]
+proyectos = ["project_1.txt","project_2.txt","project_3.txt","project_4.txt","project_5.txt"]
 
 # Functions
 

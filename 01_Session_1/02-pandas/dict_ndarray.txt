@@ -1,0 +1,11 @@
+dict = {
+        "name":["Pedro","Antonio","Ángela","María"],
+        "edad": [18,54,25,42],
+        "email": ["pedro@gmail.com","antonio@hotmail.com","angela@yahoo.com","maria@icloud.com"]}
+
+
+n_darray = [["name","edad","email"],
+["Pedro",18,"pedro@gmail.com"],
+["Antonio",54,"antonio@hotmail.com"],
+["Ángela",25,"angela@yahoo.com"],
+["María",42,"maria@icloud.com"]]
